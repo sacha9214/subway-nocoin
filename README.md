@@ -4,6 +4,8 @@ A search that finds twenty-minute Subway Surfers runs with **0 coins** picked up
 
 The port itself is [zebmeow/SubwaySurfers](https://github.com/zebmeow/SubwaySurfers); its README follows.
 
+The planner, the playback page and the runs are under the [MIT license](LICENSE); the port and the original game's files are not.
+
 ---
 
 # Subway Surfers Rust / Bevy port
